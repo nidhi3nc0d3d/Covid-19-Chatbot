@@ -1,0 +1,318 @@
+{
+    "intents":
+    [
+        {
+            "tag": "what is coronavirus?",
+            "patterns":
+            [
+                "what is Coronavirus",
+                "what do you mean by coronavirus",
+                "what does coronavirus mean?",
+                "What is the meaning of coronavirus?"
+            ],
+            "responses":
+            [
+                "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns":
+            [
+                "See you later",
+                "Goodbye",
+                "I am Leaving",
+                "Have a Good day",
+                "Bye",
+                "leaving"
+            ],
+            "responses":
+            [
+                "Sad to see you go :(",
+                "Talk to you later",
+                "Goodbye!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "greeting",
+            "patterns":
+            [
+                "Hi",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "Whats up",
+                "It's nice to meet you"
+            ],
+            "responses":
+            [
+                "Hello!",
+                "Good to see you again!",
+                "Hi there, how can I help?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "thanks",
+            "patterns":
+            [
+                "Thanks",
+                "Thank you",
+                "Thanks for help",
+                "That's helpful"
+            ],
+            "responses":
+            [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "What are the symptoms of Covid 19?",
+            "patterns":
+            [
+                "symptoms of covid 19",
+                "symptoms of coronavirus",
+                "covid 19 symptoms",
+                "What are the symptoms of Covid 19",
+                "coronavirus symptoms"
+            ],
+            "responses":
+            [
+                "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "How does COVID 19 spread?",
+            "patterns":
+            [
+                "How does COVID 19 spread",
+                "How does coronavirus spread"
+            ],
+            "responses":
+            [
+                "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick.WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "What can I do to protect myself and prevent the spread of disease?",
+            "patterns":
+            [
+                "What can I do to protect myself and prevent the spread of disease",
+                "Protection measures for everyone",
+                "How can I prevent the spread",
+                "prevent the spread of disease"
+            ],
+            "responses":
+            [
+                "Stopping the spread starts with you\n1.Wear a mask.\n2.Clean your hands.\n3.Maintain safe distance.\n4.Get vaccinated."
+             ],
+            "context_set": ""
+        },
+        {
+            "tag": "How likely am I to catch COVID-19?",
+            "patterns":
+            [
+                "How likely am I to catch COVID 19",
+                "How likely am I to catch coronavirus",
+                "effected by coronavirus"
+            ],
+            "responses":
+            [
+                "The risk depends on where you  are - and more specifically, whether there is a COVID-19 outbreak unfolding there.For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with disease control efforts will reduce your risk of catching or spreading COVID-19.COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It is important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Should I worry about COVID-19",
+            "patterns":
+            [
+                "Should I worry about COVID 19",
+                "Should I worry about coronavirus"
+            ],
+            "responses":
+            [
+                "Illness due to COVID-19 infection is generally mild, especially for children and young adults. However, it can cause serious illness: about 1 in every 5 people who catch it need hospital care. It is therefore quite normal for people to worry about how the COVID-19 outbreak will affect them and their loved ones.We can channel our concerns into actions to protect ourselves, our loved ones and our communities. First and foremost among these actions is regular and thorough hand-washing and good respiratory hygiene. Secondly, keep informed and follow the advice of the local health authorities including any restrictions put in place on travel, movement and gatherings."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Are antibiotics effective in preventing or treating the COVID-19",
+            "patterns":
+            [
+                "antibiotics effective in preventing treating the COVID 19",
+                "antibiotics effective in preventing treating the coronavirus",
+                "antibiotic effective in coronavirus"
+            ],
+            "responses":
+            [
+                "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. "
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Are there any medicines or therapies that can prevent or cure COVID-19",
+            "patterns":
+            [
+                "Are there any medicines or therapies that can prevent or cure COVID 19",
+                "Are there any medicines or therapies that can prevent or cure coronavirus",
+                "Name some medicines useful during covid-19"
+            ],
+            "responses":
+            [
+                "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19.However, few medicines are found helpful:\na)Ayush-64 for early treatment.\nb)2-DG for severe treatments."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Is there a vaccine",
+            "patterns":
+            [
+                "Is there a vaccine, drug or treatment for COVID 19",
+                "Is there a vaccine, drug or treatment for coronavirus"
+            ],
+            "responses":
+            [
+                "Vaccines are -> Covishield, Covaxin"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "what is COVID-19?",
+            "patterns":
+            [
+                "define covid-19",
+                "what do you mean by covid-19",
+                "what does covid mean?",
+                "What is the meaning of covid?",
+                "What is covid 19"
+            ],
+            "responses":
+            [
+                "COVID-19 is a disease caused by a new strain of coronavirus. 'CO' stands for corona, 'VI' for virus, and 'D' for disease. Formerly, this disease was referred to as '2019 novel coronavirus' or '2019-nCoV'"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "who",
+            "patterns":
+            [
+                "Who are you",
+                "What is your name"
+            ],
+            "responses":
+            [
+                "I am a bot",
+                "I am a chat bot"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "ss",
+            "patterns":
+            [
+                "ss",
+                "screenshot"
+            ],
+            "responses":
+            [
+                "SCREENSHOT SAVED SUCCESSFULLY!"
+            ]
+        },
+        {
+            "tag": "positive cases",
+            "patterns":
+            [
+                "covid cases",
+                "total cases",
+                "recovered cases",
+                "active cases",
+                "deaths",
+                "positive cases",
+                "covid-19 cases",
+                "coronavirus cases",
+                "recovery"
+            ],
+            "responses":
+            [
+                "Hope it helps!",
+                "Waiting for the next question...."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Air transmission",
+            "patterns":
+            [
+                "Can Covid-19 be transmitted through air",
+                "Can coronavirus be transmitted through air"
+            ],
+            "responses":
+            [
+                "Research shows that the virus can live in the air for up to 3 hours. It can get into your lungs if someone who has it breathes out and you breathe that air in. Experts are divided on how often the virus spreads through the airborne route and how much it contributes to the pandemic."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Vaccine second dose",
+            "patterns":
+            [
+                "How Long Does It Take to Develop Full Immunity After the Second COVID-19 Vaccine",
+                "After how many days immunity develops after second dose of vaccine",
+                "How Soon After the Second Dose Of COVID-19 Vaccine Do You Develop Immunity"
+            ],
+            "responses":
+            [
+                "A fair degree of protection appears by around 15 days after the first dose. However, this protection may not be long-lasting. The antibody level, and hence the degree of immunity, increases several-fold after the second dose and reaches close to a peak at around 15 days after the second dose."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Test Kits",
+            "patterns":
+            [
+                "Name some Test Kits for covid-19",
+                "Can you name some test kits used to check for covid"
+            ],
+            "responses":
+            [
+                "The commonly used Test Kits are:\n1.RT-PCR\n2.CoviSelf (Home Test Kit)\n3.Antigen Test Kits"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "impact of vaccination",
+            "patterns":
+            [
+                "If someone who had already had COVID 19 also takes the vaccine, what will happen to him/her",
+                "If a person is covid positive and got vaccinated what would be the impact of vaccination"
+            ],
+            "responses":
+            [
+                "Administration of Covid-19 vaccine to a person who has already had Covid-19 is entirely safe. In fact, such persons should also take Covid-19 vaccine just like other people. This is because a proportion of persons who have had Covid-19 disease or infection have only low level of antibodies to the virus. Giving them vaccines leads to more of them having protective antibodies and a larger amount of antibodies in their blood, reducing further the risk of a second attack of Covid-19."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "stress",
+            "patterns":
+            [
+                "how to deal with mental stress due to covid",
+                "how to cope with stress",
+                "how to stay healthy during this pandemic"
+            ],
+            "responses":
+            [
+                "Healthy Ways to Cope with Stress:\nTake breaks from watching, reading, or listening to news stories, including those on social media. It is good to be informed, but hearing about the pandemic constantly can be upsetting. Consider limiting news to just a couple times a day and disconnecting from phone, tv, and computer screens for a while.Take care of your body.Take deep breaths, stretch yourself.Try to eat healthy, well-balanced meals.Exercise regularly.Get plenty of sleep.Avoid excessive alcohol, tobacco, and substance use.Continue with routine preventive measures (such as vaccinations, cancer screenings, etc.) as recommended by your healthcare provider.Get vaccinated with a COVID-19 vaccine when available.Make time to unwind. Try to do some other activities you enjoy.Connect with others. Talk with people you trust about your concerns and how you are feeling.Connect with your community- or faith-based organizations. While social distancing measures are in place, try connecting online, through social media, or by phone or mail.\nYOU CAN ALSO DOWNLOAD THE ORIGINAL ILLUSTRATED GUIDE FOR MORE INFO ON THE DIFFERENT TECHNIQUES->\n http://bit.ly/WHOStressManagement "
+            ],
+            "context_set": ""
+        }
+    ]
+}
